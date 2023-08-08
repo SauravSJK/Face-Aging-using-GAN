@@ -1,11 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="sauravsj@DAIS7.uwb.edu:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sauravsj@DAIS7.uwb.edu:22 password" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" autoUploadExternalChanges="true">
+    <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="sauravsj@DAIS7.uwb.edu:22 password">
         <serverdata>
           <mappings>
-            <mapping deploy="/data/sauravsj/Face-Aging" local="$PROJECT_DIR$" />
+            <mapping deploy="/data/sauravsj/Face-Aging/Code" local="$PROJECT_DIR$/Code" web="/" />
+            <mapping deploy="/data/sauravsj/Face-Aging/output" local="$PROJECT_DIR$/output" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@DAIS7.uwb.edu:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@DAIS7.uwb.edu:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@csslab01p.uwb.edu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/csslab-si/sauravsj/Face-Aging/Code" local="$PROJECT_DIR$/Code" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@csslab02p.uwb.edu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/csslab-si/sauravsj/Face-Aging/Code" local="$PROJECT_DIR$/Code" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@csslab03p.uwb.edu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/csslab-si/sauravsj/Face-Aging/Code" local="$PROJECT_DIR$/Code" web="/" />
+            <mapping deploy="/data/csslab-si/sauravsj/Face-Aging/output" local="$PROJECT_DIR$/output" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@csslab03p.uwb.edu:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/csslab-si/sauravsj/Face-Aging/Code" local="$PROJECT_DIR$/Code" web="/" />
+            <mapping deploy="/data/csslab-si/sauravsj/Face-Aging/output" local="$PROJECT_DIR$/output" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@dais2.uwb.edu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/sauravsj/Face-Aging/Code" local="$PROJECT_DIR$/Code" web="/" />
+            <mapping deploy="/data/sauravsj/Face-Aging/output" local="$PROJECT_DIR$/output" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@dais2.uwb.edu:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@dais2.uwb.edu:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sauravsj@dais2.uwb.edu:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
